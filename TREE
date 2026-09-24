@@ -1,0 +1,25 @@
+Admin-Panel-Template/
+  demo/
+    panneau admin/
+      img/
+        avatar-2.jpg
+        avatar-3.jpg
+        avatar-4.jpg
+        avatar-5.jpg
+        user.jpg
+      index.html
+      main.css
+  index.html
+  original/
+    panneau admin/
+      panneau admin/
+        img/
+          avatar-2.jpg
+          avatar-3.jpg
+          avatar-4.jpg
+          avatar-5.jpg
+          user.jpg
+        index.html
+        main.css
+  PROVENANCE_LICENSE.txt
+  README.md
